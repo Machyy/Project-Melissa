@@ -1,4 +1,4 @@
-## 1. Úvodní fáze: Setkání a začátek psychického boje
+# 1. Úvodní fáze: Setkání a začátek psychického boje
 
 - **Prostředí:** Les kolem pomníku Melissy, tichý, ale temný s mírně zkreslenými zvuky.
 - **Melissa:** Zjevuje se Phillipovi, provokativní, někdy laskavá, jindy chladná.
@@ -8,7 +8,7 @@
 - **Cíl:** Udržet Phillipovu mysl co nejvíce stabilní, nebo naopak ponořit hlouběji do halucinací.
 
 ---
-## 2. Střední fáze: Boj s halucinacemi a mini-hádanky
+# 2. Střední fáze: Boj s halucinacemi a mini-hádanky
 
 - **Přepínání realit:**
     - Interakcí se spouštějí halucinace, kde je prostředí surrealistické, plné symbolů a rozmazaných stínů.
@@ -17,7 +17,7 @@
 - **Efekt:** Postupné oslabení Melissy (symbolicky i herně), stabilizace Phillipovy mysli.
 
 ---
-## 3. Finální fáze: QTE se stinnými postavami
+# 3. Finální fáze: QTE se stinnými postavami
 
 - **Prostředí:** Temné, kolem Phillipa se objevují stinné postavy, které neustále opakují:
     - „Je to tvoje vina.“
