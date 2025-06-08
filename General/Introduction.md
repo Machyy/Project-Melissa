@@ -1,3 +1,5 @@
+## General
+
 - Genre: **FPP Horror Story Adventure**
 - Platform: **Steam**
 - Price: **40 €**
