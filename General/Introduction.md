@@ -2,12 +2,15 @@
 - Platform: **Steam**
 - Price: **40 €**
 
+---
 ## Atmosphere
 
 - Psychologický thriller s důrazem na introspektivní příběh, vnitřní hlas a atmosférické prostředí.
 - Klíčové motivy: **ztráta, vina, lítost, trauma a sebeodpuštění**.
 - Styl vyprávění se pohybuje mezi realitou a představami – hráč nikdy neví, co je skutečné.
 - Inspirace: _Silent Hill 2_ (vina a ztráta)
+
+---
 ## Story in short
 
 Hráč se ujímá role Phillipa, muže zlomeného tragickou ztrátou své přítelkyně Melissy, která před dvěma lety spáchala sebevraždu skokem pod vlak. Phillip její smrt nese jako své selhání – věří, že mohl něco udělat, něco změnit. Od té doby se u něj rozvíjejí závažné psychické potíže: úzkosti, paranoidní stavy, halucinace.
